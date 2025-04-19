@@ -6,4 +6,5 @@ renewable energy adoption across regions and periods.*
 data.*
 - **Added interactivity** through **filters** and drill-down capabilities, allowing users to explore regional and
 sector-specific energy metrics.*
-- ***Published** the dashboard **online** for **broader accessibility and use.*** 
+- ***Published** the dashboard **online** for **broader accessibility and use.***
+- Link to access - https://public.tableau.com/app/profile/pooja.k.h/viz/EnergyTrendsInIndia/Dashboard1?publish=yes
